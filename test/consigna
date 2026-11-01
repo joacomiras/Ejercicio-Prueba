@@ -1,0 +1,2 @@
+Crear una señal PWM con un timer, esa señal la leerá un ADC, hará la conversión a tensión, y
+mandará el valor de esa tensión a otro microprocesasor a través de USART
