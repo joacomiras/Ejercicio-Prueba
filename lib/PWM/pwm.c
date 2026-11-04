@@ -1,4 +1,4 @@
-#include "adc.h"
+#include "pwm.h"
 #include "stm32f103xb.h"
 void pwm_init(canal, frec){
     //habilito clock del timer 3
